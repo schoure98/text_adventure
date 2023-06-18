@@ -23,8 +23,8 @@ Use the following commands to interact with the game:
 - `use [item]`: Use a specific item from your inventory.
 - `cheat` : get all the items in the inventory.
 
-References: 
-PureScript Book: https://book.purescript.org/chapter11.html 
-PureScript Github: https://github.com/purescript-contrib/purescript-book
-Node.ReadLine: https://pursuit.purescript.org/packages/purescript-node-readline/4.0.1/docs/Node.ReadLine 
+## References: 
+- PureScript Book: https://book.purescript.org/chapter11.html 
+- PureScript Github: https://github.com/purescript-contrib/purescript-book
+- Node.ReadLine: https://pursuit.purescript.org/packages/purescript-node-readline/4.0.1/docs/Node.ReadLine 
 
